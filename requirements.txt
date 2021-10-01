@@ -1,0 +1,7 @@
+injector==0.18.3
+pyhumps==1.6.1
+uvicorn==0.11.7
+fastapi==0.60.1
+python-multipart==0.0.5
+requests==2.24.0
+requests-async==0.6.2
